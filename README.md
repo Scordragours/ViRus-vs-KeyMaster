@@ -6,6 +6,8 @@ Nous sommes de nouveau employés dans une société de création de jeux vidéo,
 
 Les parties du jeu pourront être paramétrées en réalité augmenté.
 
+⚠️ Le code source ne peut être mis sur GitHub pour des raisons de poids. ⚠️
+
 ### Déroulé
 Le projet, s'est déroulé du 5 décembre 2022 au 20 janvier 2022, à la fin de cette période, nous avons rendu 5 livrables :
 - [Mini projet Unity](https://github.com/Scordragours/vShool) rendu le 13 décembre 2022,
@@ -26,6 +28,8 @@ Le groupe de projet était composé de 3 personnes :
 We are again employed in a video game creation company, a new project has been proposed to us. We have to create a video game with two teams: ViRus and Key Master scientists. ViRus will have to play in Virtual Reality while Key Master scientists will have to play with keyboard and mouse.
 
 The parts of the game can be set in augmented reality.
+
+⚠️ The source code cannot be put on GitHub for weight reasons. ⚠️
 
 ### Planning
 The project, ran from December 5, 2022 to January 20, 2022, at the end of this period, we returned 5 deliverables:
