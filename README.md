@@ -9,11 +9,11 @@ Les parties du jeu pourront être paramétrées en réalité augmenté.
 ⚠️ Le code source ne peut être mis sur GitHub pour des raisons de poids. ⚠️
 
 ### Déroulé
-Le projet, s'est déroulé du 5 décembre 2022 au 20 janvier 2022, à la fin de cette période, nous avons rendu 5 livrables :
-- [Mini projet Unity](https://github.com/Scordragours/vShool) rendu le 13 décembre 2022,
-- [Mini projet VR](https://github.com/Scordragours/ADDOL) rendu le 4 janvier 2023,
-- [Mini projet AR](https://github.com/Scordragours/MachIndus) rendu le 6 janvier 2023,
-- Projet final : [partie AR]() & [le jeu]() rendu le 20 janvier 2023.
+Le projet s'est déroulé du 5 décembre 2022 au 20 janvier 2022, à la fin de cette période, nous avons rendu 5 livrables :
+- Mini projet Unity (nommée vSchool) rendu le 13 décembre 2022 : création d'un jeu permettant de visiter virtuellement une école,
+- Mini projet VR (nommée ADDOL) rendu le 4 janvier 2023 : création d'un jeu permettant à des agents de maintenance de se former virtuellement sur une plateforme pétrolière,
+- Mini projet AR (nomée MachIndus) rendu le 6 janvier 2023 : création d'une application pour visualiser un produit industrielle en réalité augmenté,
+- Projet final rendu le 20 janvier 2023 : comportant le jeu compatible clavier & souris et casque VR ainsi que l'application d'édition de la carte en réalité augmentée.
 
 ### Membres
 Le groupe de projet était composé de 3 personnes :
@@ -32,11 +32,11 @@ The parts of the game can be set in augmented reality.
 ⚠️ The source code cannot be put on GitHub for weight reasons. ⚠️
 
 ### Planning
-The project, ran from December 5, 2022 to January 20, 2022, at the end of this period, we returned 5 deliverables:
-- [Unity Mini Project](https://github.com/Scordragours/vShool) submitted on December 13, 2022,
-- [Mini VR project](https://github.com/Scordragours/ADDOL) delivered on January 4, 2023,
-- [Mini AR project](https://github.com/Scordragours/MachIndus) turned in on January 6, 2023,
-- Final project: [AR part]() & [the game]() due January 20, 2023.
+The project ran from December 5, 2022 to January 20, 2022, at the end of this period we turned in 5 deliverables:
+- Mini Unity project (named vSchool) returned on December 13, 2022: creation of a game to virtually visit a school,
+- Mini VR project (named ADDOL) delivered on January 4, 2023: creation of a game allowing maintenance agents to be trained virtually on an oil platform,
+- Mini AR project (named MachIndus) submitted on January 6, 2023: creation of an application to visualize an industrial product in augmented reality,
+- Final project submitted on January 20, 2023: including the game compatible with keyboard & mouse and VR headset as well as the application for editing the map in augmented reality.
 
 ### Members
 The project group consisted of 3 people:
