@@ -16,7 +16,7 @@ Le projet s'est déroulé du 5 décembre 2022 au 20 janvier 2022, à la fin de c
 - Projet final rendu le 20 janvier 2023 : comportant le jeu compatible clavier & souris et casque VR ainsi que l'application d'édition de la carte en réalité augmentée.
 
 ### Membres
-Le groupe de projet était composé de 3 personnes :
+Le groupe de projet était composé de 5 personnes :
 - [Benjamin Brifault](https://www.linkedin.com/in/benjamin-brifault/) le chef de projet,
 - [Nathan Poret](https://www.linkedin.com/in/nathan-poret-8a66b0193/),
 - [Etienne Candat](https://www.linkedin.com/in/etienne-candat/),
@@ -39,7 +39,7 @@ The project ran from December 5, 2022 to January 20, 2022, at the end of this pe
 - Final project submitted on January 20, 2023: including the game compatible with keyboard & mouse and VR headset as well as the application for editing the map in augmented reality.
 
 ### Members
-The project group consisted of 3 people:
+The project group consisted of 5 people:
 - [Benjamin Brifault](https://www.linkedin.com/in/benjamin-brifault/) the project leader,
 - [Nathan Poret](https://www.linkedin.com/in/nathan-poret-8a66b0193/),
 - [Etienne Candat](https://www.linkedin.com/in/etienne-candat/),
